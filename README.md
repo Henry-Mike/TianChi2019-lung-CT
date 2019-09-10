@@ -18,6 +18,8 @@
 
 修改之后相当于 Faster-RCNN，但在 ROI 部分使用的是 ROI-Align，而非 ROI-Pooling。一般来说，ROI-Align 的效果更好。
 
+[下载预训练权重](https://pan.baidu.com/s/1qy-WVJgeRqqrlhn4YRMxlw)，提取码 `fjf7`。
+
 ## 效果
 
 2D 识别效果：
